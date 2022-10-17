@@ -1,7 +1,3 @@
 # git-essentials
-  
-  ## Deployment notes
-  
-  ## Staging notes
-  
-  ## How to use this repo notes
+
+Some completely new stuff
