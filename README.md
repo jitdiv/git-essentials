@@ -1,3 +1,3 @@
-# git-essentials
+# Git Essentials / GFE
 
-Some completely new stuff
+This is everday git
